@@ -121,7 +121,8 @@ plant-disease-detection/
 
 > *Because seeing is believing (and reading is for chumps).*
 
-[![Watch the Demo](https://img.youtube.com/vi/your-demo-video-id/0.jpg)](https://www.youtube.com/watch?v=your-demo-video-id)
+[![Watch the Demo](![Plant_Disease_Detection](https://github.com/user-attachments/assets/a62de0a9-8381-40ba-a182-1b1dd9c0a70f)
+)](https://youtu.be/gZex8zLHtrU)
 
 - **What’s inside:**  
   - How to set up the dataset  

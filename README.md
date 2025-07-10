@@ -6,17 +6,35 @@
 
 ## Table of Contents
 
+- [Demo Video & Screenshots](#demo-video)
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Demo Video](#demo-video)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
+
+## Demo Video
+
+> *Because seeing is believing (and reading is for chumps).*
+
+[![Watch the Demo](https://github.com/DevanshSrajput/Plant_Disease_Detection/blob/main/Plant_Disease_Detection.png)](https://youtu.be/gZex8zLHtrU)
+
+---
+
+## 📸 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Screenshots/Home.png" width="200"/>
+  <img src="Screenshots/Prediction.png" width="200"/>
+  <img src="Screenshots/Model_Training.png" width="200"/>
+  <img src="Screenshots/analytics.png" width="200"/>
+</div>
+
 
 ## About
 
@@ -117,11 +135,7 @@ plant-disease-detection/
 
 ---
 
-## Demo Video
 
-> *Because seeing is believing (and reading is for chumps).*
-
-[![Watch the Demo](https://github.com/DevanshSrajput/Plant_Disease_Detection/blob/main/Plant_Disease_Detection.png)](https://youtu.be/gZex8zLHtrU)
 
 - **What’s inside:**  
   - How to set up the dataset  
